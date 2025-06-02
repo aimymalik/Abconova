@@ -17,6 +17,3 @@ gem "bigdecimal"
 # For Windows (Codespaces run on Linux, so this won't apply there but good to keep if you ever run on Windows)
 gem "wdm", ">= 0.1.0", :platforms => [:mswin, :mingw]
 
-# Add any other plugins you have
-# gem "jekyll-feed", "~> 0.12"
-# gem "jekyll-seo-tag", "~> 2.7"
