@@ -1,12 +1,13 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
+gemspec
 
 # Consider updating Jekyll. Jekyll 4.3.3 is the latest 4.x as of my last update.
 # If you want to be safer, try a specific recent patch for 4.2.x if available,
 # or go for the latest 4.x.
 gem "jekyll", "~> 4.3.0" # This will get the latest 4.3.x version
 
-gem "jekyll-agency"
+
 
 # Add gems from warnings
 gem "csv"
