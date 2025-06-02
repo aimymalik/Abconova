@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Safety Supplies"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Prioritize safety and compliance with our comprehensive selection of protective gear and equipment. Order critical supplies online for prompt dispatch and a secure work environment."
         icon: fas fa-briefcase #find more at https://fontawesome.com/icons
       - title: "Office Supplies"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Outfit your workspace for peak productivity. Discover our extensive range of essential office supplies, all available for easy online ordering and fast, dependable delivery."
         icon: fas fa-folder-open
       - title: "Cleaning Supplies"
-        desc: "TEST"
+        desc: "Maintain a spotless and hygienic space with our wide array of cleaning products. Source everything you need through our website for convenient purchasing and swift delivery."
         icon: fas fa-spray-can
 
   portfolio:
