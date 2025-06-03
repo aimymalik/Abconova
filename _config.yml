@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : AbcoNova
 logo:
   path: assets/img/logo.png
-  height: 90 # (optional) height in px, defaults to 52px
+  height: 75 # (optional) height in px, defaults to 52px
 email      : info@abconova.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Web Admin
